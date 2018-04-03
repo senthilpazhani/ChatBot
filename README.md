@@ -1,6 +1,8 @@
 # ChatBot
-line added by 
+line added by PS1
 
 line added ps2
 
-sd
+line added ps 3
+
+line added ps4
